@@ -85,7 +85,7 @@ h3 {
 	font-family: 'AaarghNormal';
 	font-weight: normal;
 	font-style: normal;
-	font-size: 30px;
+	font-size: 28px;
 	padding: 5px;
 	padding-top: 20px;
 }
@@ -146,8 +146,8 @@ p {
 
 .home {
 	padding: 10px;
-	position: relative;
-	top: 25vh;
+	position: absolute;
+	top: 30vh;
 	right: 50px;
 }
 
